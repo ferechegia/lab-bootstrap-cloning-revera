@@ -1,0 +1,28 @@
+#navbarNavAltMarkup {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.container {
+    padding-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.card {
+    padding-left: 10px;
+    padding-right: 10px;
+    border-width: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.containerTop {
+    background-color: rgb(255, 240, 242);
+}
+
